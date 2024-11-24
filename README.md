@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quazi-fahim" alt="quazi-fahim" /></a> </p>
 
-- 🌱 I’m currently learning **I’m currently learning react.js, node.js and other exciting technologies.**
+- 🌱  **I’m currently learning react.js, node.js and other exciting technologies.**
 
 - 💬 Ask me about **https://github.com/issues**
 
